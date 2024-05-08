@@ -1,5 +1,5 @@
 '''
-    1. Identifying MRI sequences based on (TE and TR)
+    1. Identifying MRI sequences based on series description
 '''
 
 class Identifying_MRI_Sequences_Series_Description:
